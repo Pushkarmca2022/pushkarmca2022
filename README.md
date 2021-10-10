@@ -20,5 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkarmca2022&show_icons=true&locale=en" alt="pushkarmca2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarmca2022&" alt="pushkarmca2022" /></p>
-![man-removebg-preview](https://user-images.githubusercontent.com/74053116/136708866-fb6aecce-4288-4f8e-9baa-69704339132c.jpg)
+
 
